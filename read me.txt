@@ -1,0 +1,23 @@
+Folders and files inside
+
+(1) Job Search adaptive : Section 5.1 and examples 2.2, 3.2 and 3.7.
+
+JSadaptive : plots figure 2 of the main paper.
+JSadaptive_compare : compares CVI and VFI.
+
+
+(2) Firm Entry : Section 5.2
+
+Firm_Entry : plots figure 3 of the main paper.
+FE_compare : compares CVI and VFI.
+
+
+(3) Job Search SV : Section 5.3
+
+JSSV : plots figure 4 of the main paper.
+JSSV_compare : compares CVI and VFI, provides table 1 of the main paper.
+
+
+(4) American Option : Examples 2.3, 3.3 and 3.9. 
+
+American_Option : plots figure 1 of the main paper.
